@@ -1,7 +1,7 @@
 # Hey, I'm Evan.
 
 ## 💫 About Me:
-- Data Specialist interested in the healthcare industry.<br> - Working on Data Analytics and Data engineering portfolio projects.<br> - Check out the projects I have completed.
+- Data Specialist interested in the healthcare industry.<br> - Check out my portfolio projects centered around data exploration. <br> - Working on projects in data analytics, data engineering, and data science.
 
 
 ## 🌐 Socials:
